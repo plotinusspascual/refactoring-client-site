@@ -30,6 +30,14 @@ How to view the project:
 - Title element have a concise and decriptive title 
 
 
+## Images 
+
+Below is a snippet of some before and after html code semantic clean up. 
+(Left = Before, Right = After)
+![alt text](assets/images/Capture.PNG)
+
+Note: Nothing has changed in terms of appearance to the clients website so I will not provide any screenshots of the website.
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
