@@ -42,7 +42,6 @@ Note: Nothing has changed in terms of appearance to the clients website so I wil
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## Deployed Link
