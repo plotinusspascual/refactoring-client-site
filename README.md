@@ -12,9 +12,16 @@ I have improved the codebase for long term sustainability by seperating non sema
 
 ## Installation
 
+Tools Needed:
+
+1. Terminal (MacOS) or
+   [GitBash](https://gitforwindows.org/) (Windows)
+2. Have a Github account (Not Required)
+3. Install text editor of your choice (e.g. VSCode, Atom, etc.)
+
 How to view the project:
 
-1. Navigate in terminal where you want to save the project
+1. Navigate in terminal/gitbash where you want to save the project
 2. Clone the project via HTTPS or SSH link found in my GitHub repo 
     https://github.com/plotinusspascual/refactoring-client-site
 3. After entering the command 'git clone [HTTPS/SSH Link]' in terminal, use command 'code .' to open the project in your default text editor
